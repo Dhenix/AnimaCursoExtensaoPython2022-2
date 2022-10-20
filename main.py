@@ -11,6 +11,12 @@ idade = 21
 #exibir o meu nome (que está dentro da variável nome)
 print(nome)
 
+#Quando quiser exibir a frase "Minha idade é " completando com o conteúdo da variável idade
+print("Minha idade é "+str(idade)+" anos")
+
+
+
+
 
 ''' 
 Comentario em bloco
