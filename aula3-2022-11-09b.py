@@ -19,6 +19,7 @@ def calcular_imposto(preco_produto):
 #Aqui é o uso... aqui é imposto a calcular.. e exibir na tela
 preco = 299
 imposto = calcular_imposto(preco)
+
 print(f"Esse aqui é com a função (7%): {imposto}")
 
 #Explicação de variável local x global
