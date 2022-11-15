@@ -21,6 +21,7 @@ frutas = ["morango", "laranja", "pêra"]
 
 
 #mostra todas
+
 print(frutas)
 #quero exibir apenas a 3a. fruta (pêra)
 print(frutas[2])
