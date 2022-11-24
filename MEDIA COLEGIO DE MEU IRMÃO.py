@@ -11,4 +11,4 @@ m = (p1 + p2 + t1 + t2) / 4
 
 print("Média: ", m)
 
-#Calculando media do colegio de meu irmão kkk
+#Calculando media do colegio de meu irmão kkkK
